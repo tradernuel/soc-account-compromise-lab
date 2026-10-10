@@ -51,3 +51,13 @@ The test was performed locally on the analyst's own computer.
 The events do not establish the identity or intent of an external attacker.
 
 No automated alerting or detection rules have been configured yet.
+
+## Evidence Screenshot
+
+evidence/6a364c4e-ccdd-46b8-afa0-1465be2c74af.jpg
+evidence/d3db718d-3aef-4efa-bc30-2db96705262a.jpg
+evidence/ee3ab16a-8935-426e-9f0f-adf283df9b54.jpg
+
+
+The screenshot shows three failed-logon events generated during the controlled authentication test.
+
